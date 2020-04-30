@@ -5,7 +5,7 @@
   "repository": "git@github.com:TakuyaHanada/yarn-sample.git",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "webpack": "^4.32.2",
